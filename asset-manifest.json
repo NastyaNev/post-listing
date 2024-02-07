@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a78cfa56.css",
-    "main.js": "/react-gh-pages/static/js/main.f942f075.js",
-    "static/js/592.28503f86.chunk.js": "/react-gh-pages/static/js/592.28503f86.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/down-arrow-56.svg": "/react-gh-pages/static/media/down-arrow-56.3f6018cfbda149a36891.svg",
-    "main.a78cfa56.css.map": "/react-gh-pages/static/css/main.a78cfa56.css.map",
-    "main.f942f075.js.map": "/react-gh-pages/static/js/main.f942f075.js.map",
-    "592.28503f86.chunk.js.map": "/react-gh-pages/static/js/592.28503f86.chunk.js.map"
+    "main.css": "/post-listing/static/css/main.ea8de3bc.css",
+    "main.js": "/post-listing/static/js/main.f240fba9.js",
+    "static/js/592.28503f86.chunk.js": "/post-listing/static/js/592.28503f86.chunk.js",
+    "index.html": "/post-listing/index.html",
+    "static/media/down-arrow-56.svg": "/post-listing/static/media/down-arrow-56.3f6018cfbda149a36891.svg",
+    "main.ea8de3bc.css.map": "/post-listing/static/css/main.ea8de3bc.css.map",
+    "main.f240fba9.js.map": "/post-listing/static/js/main.f240fba9.js.map",
+    "592.28503f86.chunk.js.map": "/post-listing/static/js/592.28503f86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a78cfa56.css",
-    "static/js/main.f942f075.js"
+    "static/css/main.ea8de3bc.css",
+    "static/js/main.f240fba9.js"
   ]
 }
