@@ -1,0 +1,26 @@
+.post_listing {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.double_inputs_container {
+    display: flex;
+    gap: 1em;
+}
+
+.double_inputs_container * {
+    width: calc(100% - 2*0.6em);
+}
+
+.select {
+    padding: 0.6em;
+    border: 1px lightGray solid;
+    border-radius: 5px;
+    margin: 0;
+    appearance: none;
+    background: url("../../imsges/down-arrow-56.svg") no-repeat;
+    background-position: right 0.3em top 50%;
+    background-size: 1rem;
+}

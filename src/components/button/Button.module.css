@@ -1,0 +1,43 @@
+.button {
+    cursor: pointer;
+    background: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    transition: all ease-in-out 0.3s;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    font-size: 1em;
+    text-transform: capitalize;
+}
+
+.button:hover {
+    background: rgb(31, 31, 31);
+}
+
+.button:after {
+    content: "";
+    background: rgba(0, 0, 0, 0.7);
+    display: block;
+    position: absolute;
+    opacity: 0;
+    transition: all 0.5s ease;
+    width: 10%;
+    height: 10%;
+    border-radius: 5px;
+}
+
+.button:active:after {
+    opacity: 1;
+    transition: 0.1s;
+    padding-top: 90%;
+    padding-bottom: 90%;
+    padding-left: 90%;
+    padding-right: 90%;
+}
